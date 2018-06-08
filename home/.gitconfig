@@ -1,0 +1,5 @@
+[user]
+  name = Dante Sun
+  email = dante.sun@gmail.com
+[includeIf "gitdir:~/workspace/eleme/"]
+  path = .git-eleme-user
